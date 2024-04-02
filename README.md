@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Lanter YouTube Highligter](https://chromewebstore.google.com/detail/lanter-youtube-highlighte/dddkbkfbiikdebcdafdnjcimkooehmfb)
 
-- 👯 I’m looking to collaborate on [QuoteReply ChatGPT](https://github.com/bayramn/QuoteReply-ChatGPT)
+- 🤝 I’m looking to collaborate on [QuoteReply ChatGPT](https://github.com/bayramn/QuoteReply-ChatGPT)
 
-- 🤝 I built free iPhone ChatGPT Shortcut [SafariGPT](https://shareshortcuts.com/shortcuts/2586-safarigpt.html)
+- 👨‍💻 I built free iPhone ChatGPT Shortcut [SafariGPT](https://shareshortcuts.com/shortcuts/2586-safarigpt.html)
 
 - 💬 Ask me about **React, Node.js and Python**
 
