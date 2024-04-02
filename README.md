@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.buymeacoffee.com/uploads/cover_images/2023/08/388f2a12e8a03d677507237925dfd6d5.jpg@2560w_0e.webp)
 <h1 align="center">Hi 👋, I'm Bayram Nurberdiyev</h1>
-<h3 align="center">A passionate Full Stack Developer | Indie Hacker | Founder</h3>
+<h3 align="center">Full Stack Developer | Indie Hacker | Founder</h3>
 
 - 🔭 I’m currently working on [Lanter YouTube Highligter](https://chromewebstore.google.com/detail/lanter-youtube-highlighte/dddkbkfbiikdebcdafdnjcimkooehmfb)
 
