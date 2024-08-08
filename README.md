@@ -7,6 +7,8 @@
 - 🤝 I’m looking to collaborate on [QuoteReply ChatGPT](https://github.com/bayramn/QuoteReply-ChatGPT)
 
 - 👨‍💻 I built free iPhone ChatGPT Shortcut [SafariGPT](https://shareshortcuts.com/shortcuts/2586-safarigpt.html)
+  
+- 👨‍💻 I built Twitter-like inspirational quotes iPhone app: [QuoteBucket]([https://shareshortcuts.com/shortcuts/2586-safarigpt.html](https://apps.apple.com/us/app/quotebucket-insightful-quotes/id1610765571))
 
 - 💬 Ask me about **React, Node.js and Python**
 
